@@ -1,11 +1,12 @@
-# Habity
+# Habbity
 
-<img width="1188" height="648" alt="Habity readme" src="https://://github.com/user-attachments/assets/ccc21cbf-0e78-4d1b-9458-ed03f4a8fcde" />
+<img width="1188" height="648" alt="Habity readme" src="https://github.com/user-attachments/assets/4b50db3c-73d7-4da2-927e-2d3351758618" />
 
-Habity is a clean and modern habit tracking app built with Flutter.  
+
+Habbity is a clean and modern habit tracking app built with Flutter.  
 It helps users build consistency, track daily progress, and maintain streaks through a beautiful dark-themed experience with simple but useful analytics.
 
-Designed with a smooth Material 3 UI and local-first storage, Habity focuses on fast interaction, distraction-free habit management, and a visually polished experience.
+Designed with a smooth Material 3 UI and local-first storage, Habbity focuses on fast interaction, distraction-free habit management, and a visually polished experience.
 
 ---
 
@@ -75,8 +76,8 @@ Designed with a smooth Material 3 UI and local-first storage, Habity focuses on 
 ### Run Locally
 
 ```bash
-git clone https://github.com/your-username/habity.git
-cd habity
+git clone https://github.com/your-username/Habbity.git
+cd Habbity
 flutter pub get
 flutter run
 ```
@@ -107,6 +108,6 @@ lib/
 
 ## 📌 Note
 
-Habity is designed as a lightweight personal habit tracker focused on simplicity, speed, and consistency tracking without unnecessary complexity.
+Habbity is designed as a lightweight personal habit tracker focused on simplicity, speed, and consistency tracking without unnecessary complexity.
 
 ---
